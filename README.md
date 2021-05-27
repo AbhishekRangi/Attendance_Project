@@ -1,2 +1,2 @@
 # Attendance_Project
-using FACE_RECOGNITION to rrecord and log attendance
+using FACE_RECOGNITION to record and log attendance
