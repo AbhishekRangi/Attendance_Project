@@ -6,6 +6,7 @@ import os
 from datetime import datetime
 
 path = 'A:/ToComplete/face_detection/test photo/'
+#path for the registered images of the personals
 images = []
 classNames = []
 
